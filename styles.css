@@ -101,7 +101,7 @@ footer{
 
 .section1{
     grid-area: header;
-    padding: 50px;
+    padding: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -111,9 +111,9 @@ footer{
 
 .section2{
     grid-area: main;
-    padding-left: 120px;
+    padding-left: 170px;
     padding-bottom: 50px;
-    padding-right: 50px; 
+    padding-right: 110px; 
     margin-top: 0 ;
 }    
 
@@ -126,12 +126,13 @@ footer{
 }
 .section3{
     grid-area: side;
+    margin-right: 80px; 
     
 }
 
 .section4{
     grid-area: footer;
-    padding-left: 120px;
+    padding-left: 200px;
 }
 
 .container{
